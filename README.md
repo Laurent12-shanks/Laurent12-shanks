@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img width="400" height="400" alt="202837230" src="https://github.com/user-attachments/assets/15cea4c6-b8fe-410f-9942-52f2fe062a31" />
+<img width="626" height="418" alt="image" src="https://github.com/user-attachments/assets/675af572-e751-463d-b739-484a2013d70e" />
+
 
 <!--
 **Laurent12-shanks/Laurent12-shanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
